@@ -4,5 +4,8 @@
   },
   "*.theconversation.com": {
     ".promo": "remove"
+  },
+  "developer.mozilla.org": {
+    "#mdn-cta-close": "click"
   }
 }
